@@ -54,6 +54,14 @@
 	    margin-left: 20px;
 	}
 
+	.site-logo {
+		padding-left: 15px;
+	}
+
+	.site-logo img {
+		height: 80px;
+	}
+
 	/* HERO
 	================================================== */
 	.hero h1 {
@@ -164,7 +172,7 @@
 	}
 
 	.site-logo img {
-		height: 22px;
+		height: 70px;
 	}
 
 	/* Navigation */
